@@ -8,7 +8,14 @@ I have used Input for First Name and Last Name from the user and have use + Oper
 
 # Assignment 2 
 # Task 1 :- 
-I have asked if statement with modulus operator to solve this task.
+I have used if statement with modulus operator to solve this task.
 
 # Task 2 :- 
 I have used For loop with range function to solve this task.
+
+# Assignment 2 
+# Task 1 :- 
+I have used recursive function call to solve this task.
+
+# Task 2 :- 
+I have used Math module to solve this task.
